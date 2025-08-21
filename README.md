@@ -33,4 +33,5 @@ Discovered which coffee types generated the highest revenue.
 Identified seasonal patterns and peak times for sales.
 
 Provided actionable insights to support business decisions.
-<img width="857" height="484" alt="image" src="https://github.com/user-attachments/assets/18e73e21-8081-4530-8bf8-9491bfff658e" />
+<img width="857" height="484" alt="image" src="https://github.com/user-attachments/assets/f98af6e8-424b-4540-b871-24004367aaa1" />
+
